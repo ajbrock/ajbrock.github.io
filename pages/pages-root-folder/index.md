@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: Header_500_6.png
+  image_fullwidth: Header2_1.png
 widget1:
   title: "Hackprop: How (not) to reinvent the wheel"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
