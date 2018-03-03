@@ -31,9 +31,9 @@ $ci-2: #45B29D;		// turquoise
 $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
-$ci-6: #A1D044;     // green
-$ci-7: #D57401;      // My orange
-$ci-8: #1b3137;     // My blue
+$ci-7: #A1D044;     // green
+$ci-7: #D57401;     // My orange
+$ci-8: #376572;     // My blue
 
 
 
@@ -41,9 +41,9 @@ $ci-8: #1b3137;     // My blue
 ------------------------------------------------------------------- */
 
 $primary-color: $ci-1;
-$secondary-color: $ci-6;
+$secondary-color: $ci-7;
 $alert-color: $ci-5;
-$success-color: $ci-6;
+$success-color: $ci-7;
 $warning-color: $ci-4;
 $info-color: $ci-1;
 
@@ -86,14 +86,14 @@ $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
 $topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-link-bg-hover: $ci-7;
 
 $topbar-link-bg-active: $ci-7; // Active Navigation Link
 $topbar-link-bg-hover: $ci-7;
 $topbar-link-bg-active-hover: $ci-8;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-bg: $ci-7; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
 $topbar-dropdown-link-bg: $ci-2;
 
@@ -101,8 +101,8 @@ $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color-toggled: $ci-7;
+$topbar-menu-icon-color-toggled: $ci-7;
 
 
 
@@ -111,7 +111,7 @@ $topbar-menu-icon-color-toggled: $ci-6;
 
 $footer-bg: $grey-8;
 $footer-color: #fff;
-$footer-link-color: $ci-6;
+$footer-link-color: $ci-7;
 
 
 $subfooter-bg: $grey-13;
