@@ -32,6 +32,8 @@ $ci-3: #EFC94C;		// yellow
 $ci-4: #E27A3F;		// orange
 $ci-5: #DF4949;		// red
 $ci-6: #A1D044;     // green
+$ci-7: #D57401      // My orange
+$ci-8: #1b3137      // My blue
 
 
 
@@ -86,9 +88,9 @@ $topbar-link-color-active-hover: #000;
 $topbar-dropdown-label-color: $ci-2;
 $topbar-dropdown-link-bg-hover: $ci-6;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active: $ci-7; // Active Navigation Link
+$topbar-link-bg-hover: $ci-7;
+$topbar-link-bg-active-hover: $ci-8;
 
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
