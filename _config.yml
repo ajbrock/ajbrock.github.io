@@ -42,7 +42,7 @@ urlimg: 'http://www.mlbloopers.net/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: "logo_standin.png"
 
 # Gems
 gems:
