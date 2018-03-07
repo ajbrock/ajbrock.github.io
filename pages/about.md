@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "About"
-subheadline: "This blog is dedicated to "negative" results, and what we can learn from them."
-teaser: "(Machine) Learning from Mistakes"
+subheadline: "Why another Jekyll Theme?"
+teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
 permalink: "/about/"
 header: no
 image:
@@ -10,13 +10,13 @@ image:
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ---
+...and learn at the same time.
+
+*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
 
 
+## Features
 
-## About Me
-I'm a research scientist based in Edinburgh pursuing a Ph.D. in machine learning.
-
-[My CV][1]
 * [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
 * 100% GitHub Pages friendly
 * Easy editable navigation, footer and social media links
@@ -31,13 +31,18 @@ I'm a research scientist based in Edinburgh pursuing a Ph.D. in machine learning
 
 
 
-## Things that I admire
+## I got inspired by...
+
+[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
+
+Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
+
+#### Since then, fork it!
+
+Yours sincerelly, [Moritz »mo.« Sauer][7]
 
 
-
-
-
- [1]: https://drive.google.com/open?id=1TYHoGb698KNwJZ_xNffaTcjlL_g61gte
+ [1]: http://mademistakes.com/about/
  [2]: http://mademistakes.com/work/jekyll-themes/
  [3]: http://automattic.com/
  [4]: http://alistapart.com/
