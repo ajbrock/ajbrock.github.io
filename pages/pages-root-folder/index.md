@@ -11,7 +11,7 @@ widget1:
   title: "Hackprop: (Mis)adventures in re-inventing the wheel"
   url: 'http://www.mlbloopers.net/blog/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'The deep learning paradigm shift has come with ample criticisms of its limitations, with even lead conspirators like Geoff Hinton suggesting that the way forward requires scrapping and replacing fundamentals like backprop. In this post, I'll take Geoff's challenge and repeatedly, utterly fail.'
 #widget2:
 #  title: "Why use this theme?"
 #  url: 'http://phlow.github.io/feeling-responsive/info/'
