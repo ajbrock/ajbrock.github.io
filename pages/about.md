@@ -17,9 +17,9 @@ My research centers around fundamental questions in unsupervised and meta-learni
 
 
 ## Things that I admire
-[Ferenc Huszar's blog][2]
-[Chris Olah's blog][3] and [Distill][4]
-[David Ha's blog][5]
+* [Ferenc Huszar's blog][2]
+* [Chris Olah's blog][3] and [Distill][4]
+* [David Ha's blog][5]
 
  [1]: https://drive.google.com/open?id=1TYHoGb698KNwJZ_xNffaTcjlL_g61gte
  [2]: http://www.inference.vc
