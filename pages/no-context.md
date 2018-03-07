@@ -4,7 +4,7 @@ header: no
 gallery:
     - image_url: Bizarro Hitler.png
       caption: Bizarro Hitler
-    - image_url: bloops/BackPropaganda.jpg
+    - image_url: Bloops/BackPropaganda.jpg
       caption: BackPropaganda
     - image_url: gallery-example-3.jpg
       caption: Great images by Unsplash.com
