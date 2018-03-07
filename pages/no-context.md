@@ -7,8 +7,6 @@ categories:
     - design
 tags:
     - post format
-image:
-   thumb: "gallery-example-1-thumb.jpg"
 gallery:
     - image_url: gallery-example-1.jpg
       caption: Great images by Unsplash.com
