@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-teaser: "This blog is dedicated to 'negative' results, and what we can learn from them."
+teaser: "This blog is dedicated to 'negative' results and what they teach us."
 permalink: "/about/"
 header: no
 image:
