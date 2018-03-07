@@ -9,7 +9,7 @@ header:
   image_fullwidth: Header2_3B.png
 widget1:
   title: "Hackprop: How (not) to reinvent the wheel"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: 'http://www.mlbloopers.net/blog/'
   image: widget-1-302x182.jpg
   text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
 #widget2:
