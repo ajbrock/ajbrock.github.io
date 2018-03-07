@@ -1,15 +1,14 @@
 ---
 layout: page
-subheadline:  "Templates"
-title:  "Responsive Galleries with Foundation"
-teaser: "Wanna create a responsive gallery to showcase your portfolio, recent photos or images? It's quite easy thanks to Foundation and <a href='http://foundation.zurb.com/docs/components/clearing.html'>Clearing Lightbox</a>."
+title:  "No Context"
 categories:
     - design
 tags:
     - post format
+header: no
 gallery:
-    - image_url: gallery-example-1.jpg
-      caption: Great images by Unsplash.com
+    - image_url: Bizarro Hitler.png
+      caption: Bizarro Hitler
     - image_url: gallery-example-2.jpg
       caption: Great images by Unsplash.com
     - image_url: gallery-example-3.jpg
@@ -61,26 +60,6 @@ gallery:
     - image_url: gallery-image.jpg
        caption: Starting Page with huge One Logo
 ~~~
-
-### Step 3
-
-Add the include whereever you want in your content with `{% raw %}{% include gallery %}{% endraw %}`.
-
-{% include alert info='Have a look at this example-entry. And have a look into the images-folder. :)' %}
-
-
-
-
-
-
-
-
-
-
-
-## Other Post Formats
-{: .t60 }
-{% include list-posts tag='post format' %}
 
 
 

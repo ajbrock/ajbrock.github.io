@@ -16,7 +16,7 @@ My research centers around fundamental questions in unsupervised and meta-learni
 [My CV][1]
 
 
-## Things that I admire
+## Things I admire
 * [Ferenc Huszar's blog][2]
 * [Chris Olah's blog][3] and [Distill][4]
 * [David Ha's blog][5]
