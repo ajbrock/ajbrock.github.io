@@ -49,7 +49,7 @@ gallery:
     - image_url: Bloops/A Tight Bound of hard Thresholdin.png
       caption: A Tight Bound of hard Thresholding
     - image_url: Bloops/conceptssuchasgrass.png
-      caption: So-called "grass"
+      caption: So-called 'grass'
     - image_url: Bloops/The First Time.png
       caption: The First Time
     - image_url: Bloops/Convulsion Networks.png
@@ -102,7 +102,7 @@ gallery:
       caption: The Set Of Realistically Attainable Provable Things
     - image_url: Bloops/Toxic Mac Fanboys.png
       caption: Toxic Mac Fanboys
-    - image_url: Bloops/Flying Stop Signs
+    - image_url: Bloops/Flying Stop Signs.png
       caption: Flying Stop Signs
     - image_url: Bloops/AI The New Electricity.png
       caption: AI The New Electricity
@@ -131,7 +131,7 @@ gallery:
     - image_url: Bloops/Monte Carlo Steroids.png
       caption: Monte Carlo Steroids
     - image_url: Bloops/Lambada Dataset.png
-      caption: THe Forbidden Dataset
+      caption: The Forbidden Dataset
     - image_url: Bloops/Synthetic Tasks.png
       caption: Synthetic Tasks
     - image_url: Bloops/Multiprocessing helps.png
