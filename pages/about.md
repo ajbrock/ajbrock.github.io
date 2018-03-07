@@ -1,14 +1,11 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
 teaser: "This blog is dedicated to 'negative' results, and what we can learn from them."
 permalink: "/about/"
 header: no
 image:
     title: MLBloopersIconv1_600x800.png
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
 ---
 ...and learn at the same time.
 
