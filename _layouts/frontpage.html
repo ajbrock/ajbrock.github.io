@@ -56,10 +56,10 @@ format: frontpage
 {% comment %}
 *
 * First check, if there are any posts at all
-* {% unless site.posts == empty %}
+* 
 {% endcomment %}
 
-{% if page.callforaction %}
+{% unless site.posts == empty %}
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
             {% for post in site.posts limit:1 %}
