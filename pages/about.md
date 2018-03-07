@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 subheadline: "Why another Jekyll Theme?"
-teaser: "This blog is dedicated to "negative" results, and what we can learn from them."
+teaser: "This blog is dedicated to 'negative' results, and what we can learn from them."
 permalink: "/about/"
 header: no
 image:
