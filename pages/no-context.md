@@ -1,10 +1,6 @@
 ---
 layout: page
 title:  "No Context"
-categories:
-    - design
-tags:
-    - post format
 header: no
 gallery:
     - image_url: Bizarro Hitler.png
@@ -25,45 +21,7 @@ gallery:
       caption: Great images by Unsplash.com
 permalink: "/no-context/"
 ---
-You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% raw %}{% include gallery %}{% endraw %}`.
-<!--more-->
 
 {% include gallery %}
 
 
-## How to embed a gallery
-
-`{% raw %}{% include gallery %}{% endraw %}` lets you easily embed a gallery into your post. To use the gallery-include...
-
-
-### Step 1
-
-1. Make two images: a thumbnail and a big image.
-2. Name the thumbnail *gallery-image-thumb.jpg* and...
-3. ...name the big *gallery-image.jpg*.
-4. Place them in the *images*-folder.
-
-
-### Step 2
-
-Define the big version in frontmatter,  
-
-~~~
-gallery:
-    - image_url: gallery-image.jpg
-~~~
-
-If you like captions, give each image a caption:
-
-~~~
-gallery:
-    - image_url: gallery-image.jpg
-       caption: Starting Page with huge One Logo
-~~~
-
-
-
- [1]: http://foundation.zurb.com/docs/components/clearing.html
- [2]: http://foundation.zurb.com/docs/components/block_grid.html
- [3]: {{ site.url }}{{ site.baseurl }}/design/page/
- [4]: {{ site.url }}{{ site.baseurl }}/design/page-fullwidth/
