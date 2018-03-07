@@ -9,7 +9,7 @@ image:
 ---
 
 ## About Me
-I'm Andy Brock, a research scientist based in Edinburgh, pursuing a Ph.D. in machine learning.
+I'm Andy Brock, a research scientis pursuing a Ph.D. in machine learning.
 
 My research centers around fundamental questions in unsupervised and meta-learning, and leans toward creative, unusual solutions. The vast majority of my ideas, of course, end up not working out, so any positive result I end up with is usually built on the backs of myriad failed attempts. This blog reflects my belief that the insight gained from these (oft unreported) failures is valuable and worthy of investigation.
 
