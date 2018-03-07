@@ -1,6 +1,5 @@
 ---
 layout: page
-title:  "No Context"
 header: no
 gallery:
     - image_url: Bizarro Hitler.png
